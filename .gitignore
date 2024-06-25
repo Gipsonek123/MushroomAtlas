@@ -1,0 +1,26 @@
+﻿################################################################################
+# Ten plik .gitignore został utworzony automatycznie przez Microsoft(R) Visual Studio.
+################################################################################
+
+/MushroomAtlas/MushroomAtlas/obj/Debug/MushroomAtlas.pdb
+/.vs/obiektowe_prj/v17/.wsuo
+/.vs/obiektowe_prj/v17/DocumentLayout.json
+/MushroomAtlas/.vs/MushroomAtlas/FileContentIndex/1130d321-a5cd-4de3-9ac4-0a16692f7b1f.vsidx
+/MushroomAtlas/.vs/MushroomAtlas/FileContentIndex/1317a490-7e78-48c5-ba50-d0c51ad9d15b.vsidx
+/MushroomAtlas/.vs/MushroomAtlas/FileContentIndex/514ea79f-d9e0-4c3f-a442-99a5b62873cf.vsidx
+/MushroomAtlas/.vs/MushroomAtlas/FileContentIndex/6fb0377d-52bd-42b8-a21a-2f94478617c4.vsidx
+/MushroomAtlas/.vs/MushroomAtlas/FileContentIndex/73744ee2-7c68-4d4b-8008-624d37744665.vsidx
+/MushroomAtlas/.vs/MushroomAtlas/FileContentIndex/d3dd6068-2cf4-416b-8c01-1bd113804383.vsidx
+/MushroomAtlas/.vs/MushroomAtlas/FileContentIndex/dfea3401-cf32-4b4c-9256-b31e5d4d9320.vsidx
+/MushroomAtlas/.vs/MushroomAtlas/FileContentIndex/f41f3bcd-1d2f-4e8f-b4eb-c6adf59eb46f.vsidx
+/MushroomAtlas/.vs/MushroomAtlas/v17/.suo
+/MushroomAtlas/.vs/MushroomAtlas/v17/DocumentLayout.json
+/MushroomAtlas/MushroomAtlas/bin/Debug/MushroomAtlas.exe
+/MushroomAtlas/MushroomAtlas/bin/Debug/MushroomAtlas.pdb
+/MushroomAtlas/MushroomAtlas/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+/MushroomAtlas/MushroomAtlas/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/MushroomAtlas/MushroomAtlas/obj/Debug/MushroomAtlas.csproj.AssemblyReference.cache
+/MushroomAtlas/MushroomAtlas/obj/Debug/MushroomAtlas.csproj.CoreCompileInputs.cache
+/MushroomAtlas/MushroomAtlas/obj/Debug/MushroomAtlas.csproj.FileListAbsolute.txt
+/MushroomAtlas/MushroomAtlas/obj/Debug/MushroomAtlas.csproj.GenerateResource.cache
+/MushroomAtlas/MushroomAtlas/obj/Debug/MushroomAtlas.exe
